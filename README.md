@@ -1,2 +1,2 @@
 # loc8r
-experimenti with the MEAN stack
+experiments with the MEAN stack
